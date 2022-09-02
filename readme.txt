@@ -1,14 +1,7 @@
 ﻿=== QisstPay 1-Click Checkout ===
 Contributors: QisstPay
 Tags: woocommerce,payment gateway, woocommerce extension, Qisstpay payment,payment, payment option, custom payment, 1-Click Checkout
-Requires at least: 4.0
-Tested up to: 6.0
-Stable tag: 1.0.0
-Requires PHP: 5.6
-WC requires at least: 3.0
-WC tested up to: 5.4.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 One Click Conversion with Automated Conversion Optimization
 Website: www.qisstpay.com/1click
 QisstPay offers 1-Click checkout that allows merchant to reduce cart
@@ -62,6 +55,4 @@ checkout process.
 GLOBAL COMMUNITY
 Integrate with QisstPay today and become part of our global 
 QisstPay community – includes 1500+ merchants globally.
-Visit our website to book a demo: www.qisstpay.com/1click
-FAQ
-Visit our website: www.qisstpay.com/1click
+
